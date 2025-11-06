@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>しぶの日記</title>
+  <title>マリーの日記</title>
   <style>
     body {
       font-family: "Yu Gothic", sans-serif;
@@ -19,7 +19,7 @@
   </style>
 </head>
 <body>
-  <h1>しぶの日記</h1>
+  <h1>マリーの日記</h1>
 
   <div class="entry">
     <div class="date">2025年11月6日</div>
