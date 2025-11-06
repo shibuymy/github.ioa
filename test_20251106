@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>しぶの日記</title>
+  <style>
+    body {
+      font-family: "Yu Gothic", sans-serif;
+      background-color: #fefefe;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.8;
+      color: #333;
+    }
+    h1 { color: #007acc; }
+    .entry { margin-bottom: 40px; }
+    .date { color: #888; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <h1>しぶの日記</h1>
+
+  <div class="entry">
+    <div class="date">2025年11月6日</div>
+    <p>今日はGitHub Pagesで初めてのサイトを作った！<br>
+    無料で公開できるなんて、すごい時代だなぁ。</p>
+  </div>
+
+  <div class="entry">
+    <div class="date">2025年11月7日</div>
+    <p>CSSで背景を変えてみようかな。次は画像も入れてみたい！</p>
+  </div>
+</body>
+</html>
